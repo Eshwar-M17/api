@@ -1,0 +1,54 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Arijit Singh",
+      "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Shreya Ghoshal",
+      "imageUrl": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Jubin Nautiyal",
+      "imageUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Neha Kakkar",
+      "imageUrl": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Sonu Nigam",
+      "imageUrl": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Badshah",
+      "imageUrl": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "promoters": [
+    {
+      "id": 1,
+      "name": "Drix Entertainment",
+      "description": "Drix entertainment media is an event company based in Lucknow! They specialise in creating music, comedy and concerts.",
+      "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 2,
+      "name": "StageCraft Events",
+      "description": "StageCraft Events specializes in large-scale music concerts and exclusive live experiences for audiences across India.",
+      "imageUrl": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Laugh Riot Promotors",
+      "description": "Laugh Riot Promotors curate and manage stand-up comedy shows and open-mic events featuring top comedians.",
+      "imageUrl": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=800&q=80"
+    }
+  ]
+}

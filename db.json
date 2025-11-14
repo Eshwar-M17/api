@@ -31,24 +31,28 @@
       "imageUrl": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?auto=format&fit=crop&w=800&q=80"
     }
   ],
-  "promoters": [
-    {
-      "id": 1,
-      "name": "Drix Entertainment",
-      "description": "Drix entertainment media is an event company based in Lucknow! They specialise in creating music, comedy and concerts.",
-      "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
-    },
-    {
-      "id": 2,
-      "name": "StageCraft Events",
-      "description": "StageCraft Events specializes in large-scale music concerts and exclusive live experiences for audiences across India.",
-      "imageUrl": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=800&q=80"
-    },
-    {
-      "id": 3,
-      "name": "Laugh Riot Promotors",
-      "description": "Laugh Riot Promotors curate and manage stand-up comedy shows and open-mic events featuring top comedians.",
-      "imageUrl": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=800&q=80"
-    }
-  ]
+ "promoters": [
+  {
+    "id": 1,
+    "name": "Drix Entertainment",
+    "description": "Drix entertainment media is an event company based in Lucknow! They specialise in creating music, comedy and concerts.",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "StageCraft Events",
+    "description": "StageCraft Events specializes in large-scale music concerts and exclusive live experiences for audiences across India.",
+    "imageUrl": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=800&q=80",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Laugh Riot Promotors",
+    "description": "Laugh Riot Promotors curate and manage stand-up comedy shows and open-mic events featuring top comedians.",
+    "imageUrl": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=800&q=80",
+    "rating": 4.7
+  }
+]
+
 }
